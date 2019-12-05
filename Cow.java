@@ -18,7 +18,7 @@ public class Cow {
         public void setImage(String image){//Help generator to set image.
             this.image=image;
 
-
+// new version
 
         }
     }
